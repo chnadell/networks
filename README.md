@@ -1,2 +1,2 @@
 # networks
-for learning and playing with python's networking capabilities
+for learning some of python's networking capabilities
